@@ -1,16 +1,16 @@
 # Khaled Eissa Portfolio
 
 Personal portfolio website with:
-- Light colorful UI
-- Featured case studies from selected GitHub projects
+- Dark technical UI (high contrast with cyan/terminal-green accents)
+- Featured case studies for product, enterprise, and AI/ML work
 - Live GitHub repositories loaded from API
 - Live profile stats (repos, stars, followers)
 
-## Featured repositories
-- Sign-Language-ML
-- QR-Cart-Shopping-System
-- Health-Center-DB
-- HMK-Charity
+## Featured projects
+- EchoSense
+- Student Companion App
+- Enterprise Web Solutions
+- AI/ML Research
 
 ## Files
 - `index.html` - content and sections
